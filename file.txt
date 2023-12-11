@@ -1,0 +1,7 @@
+1. Index page that contains a table of all users and their info
+2. Join Us button takes the user to a sign up form.
+3. Form Validation ✅✅
+4. Connect to database
+5. Insert user info into database
+6. Redirect to index page
+7. Display user info in a table form

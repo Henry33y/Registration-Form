@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+input.error{
+    border-color: red;
+    color: black;
+}
+input.success{
+    border-color: rgb(16, 187, 16);
+}
+
+.error{
+    color: red;
+}
+.error.msg{
+    font-size: 0.75em !important;
+}
