@@ -1,6 +1,6 @@
 # PHP Registration System
 
-This is the first version of my PHP registration system í¸Œ . 
+This is the first version of my PHP registration system ðŸ˜Œ . 
 
 ## Tech Stack
     - PHP
